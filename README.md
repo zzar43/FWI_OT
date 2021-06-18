@@ -1,6 +1,6 @@
 # Full waveform inversion with unbalanced optimal transport distance and a mixed Wasserstein distance
 
-Preprint paper: Application of an unbalanced optimal transport distance and a mixed L1/Wasserstein distance to full waveform inversion [arxiv link](https://arxiv.org/abs/2004.05237)
+Preprint paper: Application of an unbalanced optimal transport distance and a mixed L1/Wasserstein distance to full waveform inversion [Application of an unbalanced optimal transport distance and a mixed L1/Wasserstein distance to full waveform inversion](https://arxiv.org/abs/2004.05237)
 
 ## Installation
 ```
@@ -39,5 +39,4 @@ The inverse results for each iterations are saved in the folder ``temp_data''.
 ## Demo
 
 Here is a demo:
-![Marmousi model]
-(https://github.com/zzar43/FWI_OT/demo/marmousi.jpg)
+![Marmousi model](https://github.com/zzar43/FWI_OT/demo/marmousi.jpg)
